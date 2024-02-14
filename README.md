@@ -21,4 +21,4 @@ best-performing model is identified based on achieved accuracy.
 
 
  ## Model Build up
- You can find the model for the plant leaf image classification HERE 
+ You can find the model for the plant leaf image classification [HERE](https://github.com/Adematics/Classification-of-plant-species-using-leaf-pictures-and-CNN-/blob/main/Classification-of-plant-species-using-leaf-pictures-and-CNN.ipynb) 
